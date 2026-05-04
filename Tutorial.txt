@@ -1,0 +1,25 @@
+Requisitos da hospedagem:
+- Versao do php 7.4
+
+
+1. Carregue o painel para sua hospedagem e certifique-se de habilitar o sourceguardian, assim como para a versao normal do painel
+
+2. Instale o aplicativo. No aplicativo, pesquise por:
+https://demo38.globallweb.online/
+E substitua pela sua propria URL do painel
+
+3. Aproveite :)
+
+Usuario/Senha do painel:
+Usuario: admin
+Senha: admin
+
+Edi ao do aplicativo
+use o aplicativo MT Manager para troca o link pelo link do seu painel 
+
+pesquise esta Url
+https://demo38.globallweb.online
+
+
+Para mais Scripts, Landin pages, Ativações de apps Smarts e Painéis
+https://shop.brgecko.xyz
